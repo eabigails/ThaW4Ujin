@@ -1,0 +1,11 @@
+C:\Users\surab\source\repos\initha\initha\bin\Debug\initha.exe.config
+C:\Users\surab\source\repos\initha\initha\bin\Debug\initha.exe
+C:\Users\surab\source\repos\initha\initha\bin\Debug\initha.pdb
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.csproj.AssemblyReference.cache
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.csproj.SuggestedBindingRedirects.cache
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.Properties.Resources.resources
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.csproj.GenerateResource.cache
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.csproj.CoreCompileInputs.cache
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.exe
+C:\Users\surab\source\repos\initha\initha\obj\Debug\initha.pdb
+C:\Users\surab\source\repos\initha\initha\obj\Debug\W4_Homework.Form1.resources
